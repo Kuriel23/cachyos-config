@@ -1,0 +1,30 @@
+:root {
+  --color-paper: oklch(18.935% 0.03908 273.149);
+  --color-surface: oklch(21.090% 0.04037 271.922);
+  --color-surface-variant: oklch(28.799% 0.04459 274.285);
+  --color-ink: oklch(95.133% 0.02167 83.264);
+  --color-muted: oklch(80.130% 0.03449 274.466);
+  --color-accent: oklch(66.777% 0.22312 14.613);
+  --color-secondary: oklch(84.856% 0.12894 212.754);
+  --color-highlight: oklch(86.628% 0.13481 90.274);
+  --color-outline: oklch(40.194% 0.05742 278.324);
+  --color-shadow: oklch(15.400% 0.02835 272.418);
+  --color-success: oklch(83.889% 0.11555 163.307);
+  --color-suit: oklch(40.415% 0.12694 260.571);
+  --font-display: "DejaVu Sans", sans-serif;
+  --font-body: "Noto Sans", sans-serif;
+  --font-mono: "FiraCode Nerd Font", monospace;
+  --space-xs: 4px;
+  --space-sm: 8px;
+  --space-md: 16px;
+  --space-lg: 24px;
+  --space-xl: 32px;
+  --text-body: 16px;
+  --text-display: 64px;
+  --radius-panel: 4px;
+  --rule-width: 3px;
+  --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
+  --ease-in: cubic-bezier(0.64, 0, 0.78, 0);
+  --ease-in-out: cubic-bezier(0.65, 0, 0.35, 1);
+  --dur-fast: 150ms;
+}
